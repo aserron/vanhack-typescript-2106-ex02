@@ -1,0 +1,5 @@
+# Project exclude paths
+/node_modules/
+/src/lib/part/index.js
+/src/main.js
+/src/main.js.map
